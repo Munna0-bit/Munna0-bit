@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Munna0-bit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 Munna0-bit/Munna0-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -11,14 +5,18 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Munna Ahmed😁</h1>
 <h3 align="center">My Name’s Munna, I’m 22, Have Worked As A Software Engineer For A Smaller Company, In An Agile Team, Working Mostly With (Html, Css, JavaScript, Php, C#, Java, C++) But Just Like Many Other Startups This One Eventually Hasn’t Taken Of, And Now I Find Myself Unemployed. I Prefer To Work In A Smaller Team, And See The Direct Impact I Have On A Project, Which Is The Reason No. 1 Why I Am Applying For The Job With You.</h3>
 
-<img align="right" alt="Coding" width="600" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSaiprasaddabbe&psig=AOvVaw0w5QLLCXHBn8KgvP4VkMot&ust=1669218483009000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCGrK6VwvsCFQAAAAAdAAAAABAT"/>
+<img align="right" alt="Coding" width="600" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munnaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="munnaahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munnaahmed" alt="munnaahmed" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/munna" target="blank"><img src="https://img.shields.io/twitter/follow/munna?logo=twitter&style=for-the-badge" alt="munna" /></a> </p>
-
+- 👋 Hi, I’m @Munna0-bit
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 - 🔭 I’m currently working on **Tathy's IT**
 
 - 🌱 I’m currently learning **C# DJ**
