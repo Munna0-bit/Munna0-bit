@@ -26,7 +26,6 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **Eight bytes walk into a bar. The bartender asks, “Can I get you anything?” “Yeah,” reply the bytes. “Make us a double.”**
 <img align="left" alt="Coding" width="400" src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif"/>
-<img align="right" alt="Coding" width='400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@munna0-bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@munna0-bit" height="30" width="40" /></a>
