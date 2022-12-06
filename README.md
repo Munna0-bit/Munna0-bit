@@ -7,9 +7,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munnaahmed" alt="munnaahmed" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/munna" target="blank"><img src="https://img.shields.io/twitter/follow/munna?logo=twitter&style=for-the-badge" alt="munna" /></a> </p>
-- 👀 I’m interested in Game Development.
 
 - 🌱 I’m a very noob computer programmer. It is foolish to think of ownrself as too experienced!
+
+- 👀 I’m interested in Game Development.
 
 - 🌐 Munna Ahmed personal website [https://munnaahmed.netlify.app/](https://munnaahmed.netlify.app/)
 
