@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Tathy's IT**
 
-- 🌱 I’m currently learning **C# DJ**
+- 🧮 I’m currently learning **C# DJ Elm CoffeeScript**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/munna-ahmed-59a3a8216/](https://www.linkedin.com/in/munna-ahmed-59a3a8216/)
 
