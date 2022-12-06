@@ -41,6 +41,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munnaahmed&show_icons=true&locale=en" alt="munnaahmed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munnaahmed&show_icons=true&locale=en" alt="munnaahmed" /></p> <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=munnaahmed&" alt="munnaahmed" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=munnaahmed&" alt="munnaahmed" /></p>
