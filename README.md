@@ -8,8 +8,8 @@
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" style="max-width: 100%;">
 
 <p align="left"> <a href="https://twitter.com/munna" target="blank"><img src="https://img.shields.io/twitter/follow/munna?logo=twitter&style=for-the-badge" alt="munna" /></a> </p>
-<h4>
-- 🌱 I’m a very noob computer programmer. It is foolish to think of ownrself as too experienced!
+
+<h4>- 🌱 I’m a very noob computer programmer. It is foolish to think of ownrself as too experienced!  
 
 - 👀 I’m interested in Game Development.
 
