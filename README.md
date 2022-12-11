@@ -1,6 +1,6 @@
 <img align="left" alt="Coding" width="100%" dir="auto" src="https://www.finereport.com/en/wp-content/themes/blogs/images/2019053106A.gif"/>
 <h1 align="center">Hiii👋, I'm Munna Ahmed😁</h1>
-<h4 align="center">I’m 22, Have Worked As A Software Engineer For A Smaller Company, In An Agile Team, Working Mostly With (Html, Css, JavaScript, Php, C#, Java, C++) But Just Like Many Other Startups This One Eventually Hasn’t Taken Of and See The Direct Impact I Have On A Project,I have just over a year of experience as a junior software engineer with First Technology. In my short time there, I've already contributed to over a dozen projects and assisted with managing one project for one of the firm's long-time clients. Prior to this role, I completed a two-year internship with Mobile First, where I honed my mobile app development skills.</h4>
+<h4 align="center">I’m 24, Have Worked As A Software Engineer For A Smaller Company, In An Agile Team, Working Mostly With (Html, Css, JavaScript, Php, C#, Java, C++) But Just Like Many Other Startups This One Eventually Hasn’t Taken Of and See The Direct Impact I Have On A Project,I have just over a year of experience as a junior software engineer with First Technology. In my short time there, I've already contributed to over a dozen projects and assisted with managing one project for one of the firm's long-time clients. Prior to this role, I completed a two-year internship with Mobile First, where I honed my mobile app development skills.</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munnaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="munnaahmed" /> </p>
@@ -8,7 +8,7 @@
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" style="max-width: 100%;">
 
 <p align="left"> <a href="https://twitter.com/munna" target="blank"><img src="https://img.shields.io/twitter/follow/munna?logo=twitter&style=for-the-badge" alt="munna" /></a> </p>
-
+<h4
 - 🌱 I’m a very noob computer programmer. It is foolish to think of ownrself as too experienced!
 
 - 👀 I’m interested in Game Development.
@@ -24,6 +24,7 @@
 - 📫 How to reach me **munnaahmed56@gmail.com**
 
 - ⚡ Fun fact **Eight bytes walk into a bar. The bartender asks, “Can I get you anything?” “Yeah,” reply the bytes. “Make us a double.”**
+                                      </h4>
 <img align="left" alt="Coding" width="550" src="https://media.baamboozle.com/uploads/images/256790/1625161077_55954_gif-url.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
