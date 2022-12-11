@@ -1,7 +1,5 @@
-<img src="/yoshi389111/yoshi389111/raw/main/docs/hello.svg" alt="Hello" style="max-width: 100%;">
-
 <img align="left" alt="Coding" width="100%" dir="auto" src="https://www.finereport.com/en/wp-content/themes/blogs/images/2019053106A.gif"/>
-<h1 align="center">Hiii 👋, I'm Munna Ahmed😁</h1>
+<h1 align="center">Hiii👋, I'm Munna Ahmed😁</h1>
 <h3 align="center">My Name’s Munna, I’m 22, Have Worked As A Software Engineer For A Smaller Company, In An Agile Team, Working Mostly With (Html, Css, JavaScript, Php, C#, Java, C++) But Just Like Many Other Startups This One Eventually Hasn’t Taken Of, And Now I Prefer To Work In A Smaller Team, And See The Direct Impact I Have On A Project, Which Is The Reason No. 1 Why I Am Applying For The Job With You.</h3>
 
 
