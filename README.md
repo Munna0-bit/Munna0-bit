@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/munna" target="blank"><img src="https://img.shields.io/twitter/follow/munna?logo=twitter&style=for-the-badge" alt="munna" /></a> </p>
 
-<h4>- 🌱 I’m a very noob computer programmer. It is foolish to think of ownrself as too experienced!  
+- 🌱 I’m a very noob computer programmer. It is foolish to think of ownrself as too experienced!  
 
 - 👀 I’m interested in Game Development.
 
@@ -23,8 +23,7 @@
 
 - 📫 How to reach me **munnaahmed56@gmail.com**
 
-- ⚡ Fun fact **Eight bytes walk into a bar. The bartender asks, “Can I get you anything?” “Yeah,” reply the bytes. “Make us a double.”**
-</h4>                                    
+- ⚡ Fun fact **Eight bytes walk into a bar. The bartender asks, “Can I get you anything?” “Yeah,” reply the bytes. “Make us a double.”**                                  
 <img align="left" alt="Coding" width="550" src="https://media.baamboozle.com/uploads/images/256790/1625161077_55954_gif-url.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
