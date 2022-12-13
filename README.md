@@ -42,6 +42,8 @@
 
 <img align="left" alt="Coding" width="550" src="https://cutewallpaper.org/25/animated-matrix-gif-wallpaper/matrix-521dd-gifs-81db7-renkli-dcc3e-duvar-a47c1-duvar-bd4a3-gifler-1c985-e%C4%9Fitim.gif"/>
 
+<img align="left" alt="Coding" width="550" dir="auto" src="https://www.finereport.com/en/wp-content/themes/blogs/images/2019053103A.gif"/>
+
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height="325" align="left" dir="auto" src="https://camo.githubusercontent.com/a5dd69b7c80d99188e8771befa7c8463248b5e3ae5811d925e08bc11e26b8922/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7269636b73746161266c61796f75743d636f6d70616374266c616e67735f636f756e743d313026686964655f626f726465723d7472756526696e636c7564655f6f7267733d74727565267468656d653d6461726b2662675f636f6c6f723d3030303030302367682d6461726b2d6d6f64652d6f6e6c79" alt="Rick Staa's Language stats" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&amp;layout=compact&amp;langs_count=10&amp;hide_border=true&amp;include_orgs=true&amp;theme=dark&amp;bg_color=000000#gh-dark-mode-only" style="max-width: 100%;">
 <img align="left" alt="Coding" width="550" dir="auto" src="https://miro.medium.com/max/1400/1*Qd3LS4-aq7CvG-oIXlhi2A.gif"/>
