@@ -4,7 +4,7 @@
 <h4 align="center">I’m 24, Have Worked As A Software Engineer For A Smaller Company, In An Agile Team, Working Mostly With (Html, Css, JavaScript, Php, C#, Java, C++) But Just Like Many Other Startups This One Eventually Hasn’t Taken Of and See The Direct Impact I Have On A Project,I have just over a year of experience as a junior software engineer with First Technology. In my short time there, I've already contributed to over a dozen projects and assisted with managing one project for one of the firm's long-time clients. Prior to this role, I completed a two-year internship with Mobile First, where I honed my mobile app development skills.</h4>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=munnaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="munnaahmed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=munnaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="munnaahmed"/></p>
 
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" style="max-width: 100%;">
 
