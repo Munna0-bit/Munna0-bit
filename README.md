@@ -15,7 +15,7 @@
 
 - 👀 I’m interested in Game Development.
 
-- 🌐 Munna Ahmed personal website [https://munnaahmed.netlify.app/](https://munnaahmed.netlify.app/)
+- 🌐 Munna Ahmed personal website [https://munnaahmed.netlify.app/](https://munnaahmed0.netlify.app/)
 
 - 🔭 I’m currently working on **Tathy's IT**
 
